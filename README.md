@@ -1,6 +1,6 @@
 
 
-````md
+
 # STEDI Human Balance Analytics
 
 This project builds a lakehouse solution for STEDI Step Trainer sensor data using AWS S3, AWS Glue, AWS Glue Studio, Spark, and Amazon Athena.
@@ -24,9 +24,7 @@ Privacy is an important requirement in this project. Only customers who agreed t
 
 ## S3 Bucket
 
-```text
-s3://stedi-lake-house-wleed/
-````
+
 
 ## Lakehouse Zones
 
